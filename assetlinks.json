@@ -1,1 +1,9 @@
-# structureandroid
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.vincommerce.adayroi",
+    "sha256_cert_fingerprints":
+    ["21:AC:23:8F:3D:C9:79:FC:61:07:28:C6:24:6B:F6:DD:DA:27:BE:74:10:00:CD:97:F9:64:B1:F6:9A:16:93:19"]
+  }
+}]
